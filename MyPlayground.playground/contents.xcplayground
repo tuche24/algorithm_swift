@@ -5,5 +5,7 @@
         <page name='Fibo'/>
         <page name='Recursive(binary number)'/>
         <page name='Factorial'/>
+        <page name='BinaryTree'/>
+        <page name='Subset'/>
     </pages>
 </playground>
