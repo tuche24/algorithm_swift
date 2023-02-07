@@ -7,5 +7,6 @@
         <page name='Factorial'/>
         <page name='BinaryTree'/>
         <page name='Subset'/>
+        <page name='Breath-First Search'/>
     </pages>
 </playground>
