@@ -8,5 +8,6 @@
         <page name='BinaryTree'/>
         <page name='Subset'/>
         <page name='Breath-First Search'/>
+        <page name='BFS 송아지 찾기'/>
     </pages>
 </playground>
