@@ -10,5 +10,6 @@
         <page name='Breath-First Search'/>
         <page name='BFS findcow'/>
         <page name='DFS ShortCut'/>
+        <page name='BFS ShortCut'/>
     </pages>
 </playground>
