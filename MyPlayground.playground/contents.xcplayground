@@ -11,5 +11,6 @@
         <page name='BFS findcow'/>
         <page name='DFS ShortCut'/>
         <page name='BFS ShortCut'/>
+        <page name='DFS Search Path'/>
     </pages>
 </playground>
