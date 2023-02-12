@@ -57,11 +57,9 @@ func DFS_후위(root: Node?) {
     }
 }
 
-DFS_전위(root: tree)
-print("")
-DFS_중위(root: tree)
-print("")
-DFS_후위(root: tree)
+DFS_전위(root: tree) // 1 2 4 5 3 6 7
+DFS_중위(root: tree) // 4 2 5 1 6 3 7
+DFS_후위(root: tree) // 4 5 2 6 7 3 1
 
 
 
